@@ -6,6 +6,8 @@ description: Build for Impact Drive with Snapchat
 featuredpost: true
 featuredimage: /img/7951.jpg
 ---
+![](/img/7951.jpg)
+
 Visuals and videos are the way to go! Multi-format placements and channels, give brands a slew of choices to advertise from. They can access and target different audiences, create a unique identity, and cross-utilize brand assets effectively to drive the best results from their ads, amongst many other uses. 
 
 Today we sharing some best practices to create your brand on Snapchat. 
@@ -13,6 +15,8 @@ Today we sharing some best practices to create your brand on Snapchat. 
 The Camera matters now more than ever — bringing us together when we’re apart. Its role has changed drastically over the last few decades, exponentially over the last five years, and unimaginably over the last year as we began grappling with the impact of the COVID-19 on our lives. The Camera has the power to bring us together at home, opening a window into rich human connections.
 
 The platform saw a sharp increase in the numbers of Lens shares within the last year. People are connecting more virtually than ever and Snap's unique AR solutions have helped brands create unique experiences for their customers.
+
+![](/img/gif-world-lens-snap.gif)
 
 Here are some quick tips on making these AR brand building placements from Snapchat:
 
