@@ -4,7 +4,7 @@ title: "Give your creatives the right lift, to see the right campaign lift "
 date: 2021-03-23T07:07:46.295Z
 description: Build for Impact Drive with Snapchat
 featuredpost: false
-featuredimage: https://cdn.statcdn.com/Infographic/images/normal/7951.jpeg
+featuredimage: /img/7951.jpg
 ---
 Visuals and videos are the way to go! Multi-format placements and channels, give brands a slew of choices to advertise from. They can access and target different audiences, create a unique identity, and cross-utilize brand assets effectively to drive the best results from their ads, amongst many other uses. 
 
