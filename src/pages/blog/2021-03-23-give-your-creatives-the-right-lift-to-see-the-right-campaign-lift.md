@@ -26,16 +26,20 @@ Over 75% of the community engages with augmented reality every day, on average.2
 
 **2. Leverage multi-formats to drive brand awareness:**
 
-Snapchat offers multiple ad placements. While Filters and Lenses allow for experiential content, story ads and Snap ads allow brands to use existing assets in a fun way to create to brand recall. Brands can create a unique identity and leverage the power of privacy.
+Snapchat offers multiple ad placements. While Filters and Lenses allow for experiential content, story ads and Snap ads allow brands to use existing assets in a fun way to create brand recall. Brands can create a unique identity and leverage the power of privacy.
+
+![](/img/neat-icons-facebook-ad.png)
 
 **3. Position your Message loud and clear:**
 
-Snapchat guru's clearly state that your Ads Call to action, purpose should be clearly visible in the first 2 seconds of the frame. Always lead with the purpose, a clear and direct message takeaway for the users to action on. 
+Snapchat guru's clearly state that your Ads Call to action, the purpose should be clearly visible in the first 2 seconds of the frame. Always lead with the purpose, a clear and direct message takeaway for the users to action on. 
 
 \
 **4.** **Include the consumer:**
 
 Whether it means keeping the sound on or creating an interactive story or lens that captures the customer's living room, always ensure that the consumer gets pulled into the format and engages it with some or the other way. 
+
+![](/img/1492525433-world-lenses.gif)
 
 \
 **5. Real friends and real communication:**
